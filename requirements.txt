@@ -1,5 +1,5 @@
 streamlit==1.36.0
-streamlit-autorefresh==1.0.3
+streamlit-autorefresh==1.0.1
 langchain==0.2.11
 langchain-community==0.2.10
 langchain-core==0.2.23
