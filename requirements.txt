@@ -1,0 +1,11 @@
+streamlit
+streamlit-autorefresh
+langchain
+langchain-community
+langchain-core
+langchain-groq
+langgraph
+sqlalchemy
+pandas
+pytest
+flake8
